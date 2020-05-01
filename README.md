@@ -1,4 +1,4 @@
-# Didi Hoffmann
+# [Didi | Geerd-Dietger] Hoffmann
 
 Hey, this is my personal website placeholder. You can find some information about me, what I find interesting and what I have done. But mainly it is how to contact me.
 
